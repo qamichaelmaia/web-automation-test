@@ -11,13 +11,13 @@ Aqui, você encontrará exemplos práticos de automação com foco em **boas pr�
 O repositório será composto por subprojetos separados para cada stack, incluindo:
 
 - 📌 **JavaScript**
-  - Cypress
+  - Cypress 💻 *(em andamento)*
   - Playwright
 
 - 📌 **Python**
   - Playwright ✅ *(já disponível)*
   - Selenium
-  - Robot Framework
+  - Robot Framework 💻 *(em andamento)*
 
 - 📌 **Java** *(futuramente)*
   - Selenium WebDriver
@@ -30,8 +30,8 @@ O repositório será composto por subprojetos separados para cada stack, incluin
 | Projeto                     | Linguagem | Ferramenta  | Status        |
 |----------------------------|-----------|-------------|----------------|
 | `python-playwright`        | Python    | Playwright  | ✅ Finalizado |
-| `js-cypress`               | JS        | Cypress     | 🚧 Em breve   |
-| `python-robot`             | Python    | Robot       | 🚧 Em breve   |
+| `js-cypress`               | JS        | Cypress     | 💻 Em Desenvolvimento |
+| `python-robot`             | Python    | Robot       | 💻 Em Desenvolvimento |
 | `java-selenium`            | Java      | Selenium    | 🚧 Em breve   |
 
 ---
