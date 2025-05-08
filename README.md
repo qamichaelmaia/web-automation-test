@@ -31,7 +31,7 @@ O repositório será composto por subprojetos separados para cada stack, incluin
 |----------------------------|-----------|-------------|----------------|
 | `python-playwright`        | Python    | Playwright  | ✅ Finalizado |
 | `js-cypress`               | JS        | Cypress     | 💻 Em Desenvolvimento |
-| `python-robot`             | Python    | Robot       | 💻 Em Desenvolvimento |
+| `python-robotframework`    | Python    | Robot       | 💻 Em Desenvolvimento |
 | `java-selenium`            | Java      | Selenium    | 🚧 Em breve   |
 
 ---

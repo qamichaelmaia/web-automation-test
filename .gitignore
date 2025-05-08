@@ -136,4 +136,5 @@ dist
 .pnp.*
 *.pyc
 *.html
+*.xml
 *.exe
